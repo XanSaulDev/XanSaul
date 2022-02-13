@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/XanSaul/static/css/main.a52c5d96.css",
+    "main.js": "/XanSaul/static/js/main.e7b74f62.js",
+    "static/media/banner.mp4": "/XanSaul/static/media/banner.93459e1dcd80d70b57fb.mp4",
+    "static/media/saul.jpeg": "/XanSaul/static/media/saul.f722aeb77252b26008af.jpeg",
+    "static/media/github.svg": "/XanSaul/static/media/github.e81f493aaf54fa3bf43db85b6403a5db.svg",
+    "static/media/instagram.svg": "/XanSaul/static/media/instagram.a609dd51dfca0dd1db94505f6a7fb9b4.svg",
+    "static/media/swords.svg": "/XanSaul/static/media/swords.00f7890a82c084b8551338c58a77439c.svg",
+    "static/media/guitar.svg": "/XanSaul/static/media/guitar.b1a601b9b3186f808886470bcd88974b.svg",
+    "static/media/laptop.svg": "/XanSaul/static/media/laptop.06a83f28bd5cfae71b83cb87a8fd02ea.svg",
+    "index.html": "/XanSaul/index.html",
+    "static/media/facebook.svg": "/XanSaul/static/media/facebook.7bb99bf3610f0a19eb1796b263f352b0.svg",
+    "main.a52c5d96.css.map": "/XanSaul/static/css/main.a52c5d96.css.map",
+    "main.e7b74f62.js.map": "/XanSaul/static/js/main.e7b74f62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a52c5d96.css",
+    "static/js/main.e7b74f62.js"
+  ]
+}
